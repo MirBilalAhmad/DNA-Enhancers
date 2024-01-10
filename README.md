@@ -1,4 +1,4 @@
-***Enhancer Identification with a Multi-Classifier Stacked Ensemble Model***
+***Improving Enhancer Identification with a Multi-Classifier Stacked Ensemble Model***
 **Enhancer identification with a multi-classifier stacked ensemble model is a machine-learning approach used to predict and distinguish genomic regions known as enhancers. Enhancers are regulatory elements in DNA that play a crucial role in controlling gene expression and cell identity. Identifying enhancers is essential for understanding gene regulation and the underlying mechanisms that govern various cellular processes.**
 
 
@@ -10,3 +10,4 @@ Next, Run the Models_Training.ipynb file and save the best parameters of every c
 
 
 Finally, Run Models_Testing.ipynb file to see the results.
+https://doi.org/10.1016/j.jmb.2023.168314 
