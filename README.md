@@ -10,4 +10,6 @@ Next, Run the Models_Training.ipynb file and save the best parameters of every c
 
 
 Finally, Run Models_Testing.ipynb file to see the results.
+
+The paper can be cited on: 
 https://doi.org/10.1016/j.jmb.2023.168314 
