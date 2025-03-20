@@ -5,6 +5,11 @@ This repository contains the implementation of a machine learning approach aimed
 
 The proposed model combines multiple classifiers in a stacked ensemble method to improve the accuracy of enhancer identification from genomic data.
 
+## Model Diagram
+Below is a diagram representing the architecture of the model:
+
+![Model Diagram](f1.png)
+
 ## Key Steps
 
 ### 1. Feature Generation
@@ -19,4 +24,3 @@ Finally, run the **`Models_Testing.ipynb`** file to evaluate the performance of 
 ## Citation
 If you use this work in your research, please cite the following paper:
 
-@article{mir2023improving, title={Improving enhancer identification with a multi-classifier stacked ensemble model}, author={Mir, Bilal Ahmad and Rehman, Mobeen Ur and Tayara, Hilal and Chong, Kil To}, journal={Journal of Molecular Biology}, volume={435}, number={23}, pages={168314}, year={2023}, publisher={Elsevier} }
