@@ -23,4 +23,11 @@ Finally, run the **`Models_Testing.ipynb`** file to evaluate the performance of 
 
 ## Citation
 If you use this work in your research, please cite the following paper:
-
+@article{mir2023improving, title={Improving enhancer identification with a multi-classifier stacked ensemble model},
+author={Mir, Bilal Ahmad and Rehman, Mobeen Ur and Tayara, Hilal and Chong, Kil To},
+journal={Journal of Molecular Biology},
+volume={435},
+number={23},
+pages={168314}, 
+year={2023},
+publisher={Elsevier} }
