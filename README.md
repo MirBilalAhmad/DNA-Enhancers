@@ -12,4 +12,13 @@ Next, Run the Models_Training.ipynb file and save the best parameters of every c
 Finally, Run Models_Testing.ipynb file to see the results.
 
 The paper can be cited on: 
-https://doi.org/10.1016/j.jmb.2023.168314 
+@article{mir2023improving,
+  title={Improving enhancer identification with a multi-classifier stacked ensemble model},
+  author={Mir, Bilal Ahmad and Rehman, Mobeen Ur and Tayara, Hilal and Chong, Kil To},
+  journal={Journal of Molecular Biology},
+  volume={435},
+  number={23},
+  pages={168314},
+  year={2023},
+  publisher={Elsevier}
+}
